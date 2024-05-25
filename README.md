@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya
-- 👀 I’m interested in Tech, Web Dev and Physics
-- 🌱 I’m currently learning Front End Development
+- 👀 I’m interested in Data Science, Tech, Web Dev and Physics
+- 🌱 I’m currently learning Data Science
 - 📫 Contact me at Adityaantonythomas@gmail.com
 
 <!---
